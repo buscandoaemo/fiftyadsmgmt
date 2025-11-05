@@ -25,6 +25,7 @@ ul.navbar-nav .nav-item a.nav-link{font-weight:500}
 ul.navbar-nav .nav-item a.nav-link span{font-weight:700}
 .navbar-toggler-icon {width: 1.3em;height: 1.3em}
 .navbar-toggler{border:none}
+.navbar-toggler:focus{box-shadow:none}
 
 /* Logo grande/chico */
 .brand-logo{width:70px;height:auto;transition:width .28s ease,transform .28s ease,opacity .28s ease}
