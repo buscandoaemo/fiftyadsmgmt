@@ -23,6 +23,8 @@ span.u-visually-hidden{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overfl
 ul.navbar-nav{text-transform:uppercase}
 ul.navbar-nav .nav-item a.nav-link{font-weight:500}
 ul.navbar-nav .nav-item a.nav-link span{font-weight:700}
+.navbar-toggler-icon {width: 1.3em;height: 1.3em}
+.navbar-toggler{border:none}
 
 /* Logo grande/chico */
 .brand-logo{width:70px;height:auto;transition:width .28s ease,transform .28s ease,opacity .28s ease}
@@ -163,6 +165,7 @@ footer i{ font-size: 1.5rem }
 .service-card{display:flex;flex-direction:column;align-items:center;text-align:center}
 .form-control-lg {font-size:1.1rem}
 .tilt-card { transform: none !important; }
+.nav-item {text-align: center}
 }
 
 @media (max-width:479px) {
